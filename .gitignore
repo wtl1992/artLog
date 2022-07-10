@@ -1,0 +1,8 @@
+#golang
+
+*.iml
+target/
+out/
+*.idea/
+*.log
+logs/
